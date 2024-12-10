@@ -13,8 +13,8 @@ Verify image readability and format
 Log dimensions of valid images and flag unreadable ones.
 
 Criteria for "Good" Images:
-Minimum Dimensions: Width and height > 1000 pixels.
-Brightness: Average brightness > 50.
+Minimum Dimensions: Width and height 
+Brightness: Average brightness
 
 Segregation:
 Copy "good" images to a separate directory for further use.
